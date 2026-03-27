@@ -5,8 +5,8 @@
     "title": "AltimateAI/altimate-code",
     "url": "https://github.com/AltimateAI/altimate-code",
     "description": "Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 warehouses, AI-powered.",
-    "stars": 399,
-    "updated": "2026-03-27T06:27:53Z",
+    "stars": 402,
+    "updated": "2026-03-27T07:17:30Z",
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -35,8 +35,8 @@
     "title": "affaan-m/everything-claude-code",
     "url": "https://github.com/affaan-m/everything-claude-code",
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "stars": 110875,
-    "updated": "2026-03-27T06:54:17Z",
+    "stars": 110946,
+    "updated": "2026-03-27T07:36:04Z",
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -55,8 +55,8 @@
     "title": "bytedance/deer-flow",
     "url": "https://github.com/bytedance/deer-flow",
     "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-    "stars": 49162,
-    "updated": "2026-03-27T06:54:27Z",
+    "stars": 49242,
+    "updated": "2026-03-27T07:36:15Z",
     "language": "Python",
     "topics": [
       "agent",
@@ -166,19 +166,28 @@
   {
     "source": "RSS (Qiita (Claude Code))",
     "type": "article",
-    "title": "Claude Codeを8つのサブエージェント構成で使う方法 — CLAUDE.md設定と品質ゲート",
-    "url": "https://qiita.com/yamashita_aidev/items/7b120141dabdbbb35e7f",
+    "title": "【Claude Code】Enterで誤送信する時代、終わりました。たった6行でチャットLLM風の操作感にする方法",
+    "url": "https://qiita.com/Humanophilic_development/items/d270b28f292e013cb331",
     "description": "",
-    "updated": "2026-03-27T15:13:40+00:00",
+    "updated": "2026-03-27T16:05:22+00:00",
     "lang": "ja"
   },
   {
     "source": "RSS (Qiita (Claude Code))",
     "type": "article",
-    "title": "Claude CodeでGitHubのIssueを自動作成・PR作成・自己成長させてみた",
-    "url": "https://qiita.com/umamichi/items/ee3c5b6aee3b4c3e8b0e",
+    "title": "Claude Code + serena MCPの活用",
+    "url": "https://qiita.com/kalki/items/a05a2442412128c2478f",
     "description": "",
-    "updated": "2026-03-27T13:32:38+00:00",
+    "updated": "2026-03-27T15:54:46+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "Claude Codeを8つのサブエージェント構成で使う方法 — CLAUDE.md設定と品質ゲート",
+    "url": "https://qiita.com/yamashita_aidev/items/7b120141dabdbbb35e7f",
+    "description": "",
+    "updated": "2026-03-27T15:13:40+00:00",
     "lang": "ja"
   },
   {
@@ -206,15 +215,6 @@
     "url": "https://qiita.com/AI-SKILL-LAB/items/96142820b715d5498165",
     "description": "",
     "updated": "2026-03-27T09:07:21+00:00",
-    "lang": "ja"
-  },
-  {
-    "source": "RSS (Qiita (MCP))",
-    "type": "article",
-    "title": "【仮】Amazon Bedrock AgentCore × WebRTC × AWS MCP Serverによる次世代自律型AIエージェントのアーキテクチャと実装に関する包括的調査報告",
-    "url": "https://qiita.com/yoshi-sa/items/9e41ffb572262ac521da",
-    "description": "",
-    "updated": "2026-03-26T23:56:36+00:00",
     "lang": "ja"
   },
   {
@@ -270,47 +270,5 @@
     "description": "AI assistants can decompose multi-step workflows, but they do not natively speak industrial protocols such as Modbus, MQTT/Sparkplug B, or OPC UA, so this paper presents INDUSTRICONNECT, a prototype suite of Model Context Protocol (MCP) adapters that expose industrial operations as schema-discoverable AI tools while preserving protocol-specific connectivity and safety controls; the system uses a c",
     "authors": "Melwin Xavier, Melveena Jolly, Vaisakh M A",
     "updated": "2026-03-25T18:27:59Z"
-  },
-  {
-    "source": "Web (MEXC News)",
-    "type": "article",
-    "title": "Bret Taylor: Open-source AI is chaotic and unpolished, harness engineering is key for efficient development, and emotional attachment to code hinders growth | MEXC News",
-    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd5AI39lkEtnJD_KTSIl8hY2v4O3lZlbbUwJU52uX9TsI9PQJW74TutbBZi85YDC_LeVmjmMcvxjjrtvHbsDXKpNIFVehD3JfPoGFFMAK1Kd0gLatMMz3PpiDu",
-    "description": "Bret TaylorがAIエージェント開発におけるハーネスエンジニアリングの重要性を語る。"
-  },
-  {
-    "source": "Web (Google Search)",
-    "type": "article",
-    "title": "hatena.ne.jp",
-    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq9kDHDRRGLsBgN5J2qG6evkyYInLJ9-yLvaNV2JoxRTnE7WvgyvFN1pIT6IhGf7OnhiqUgM05iCMdMp-e0ZrFkuHpn1apPunci_m6Puv7groSkfW8SXEnG0xNXVDGdO3rZxw2SNlQ2N7uezR-tNJyQBXRnirTpPlf7N1jPoQsnNXQzM5AJ0KKyHqlOfNJkt56IRM=",
-    "description": ""
-  },
-  {
-    "source": "Web (Google Search)",
-    "type": "article",
-    "title": "hatena.ne.jp",
-    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPvqvdd0Rd8B38YZ3oZmduRv-KE2noHOO7ETnS8e54cb2cF6UiHFHXXXmVCZSn59bk8ehCN-YCfpyd0zAWStkGgI83wwzy6tqlB_rH3LuK0m0mR60wgCY9B-gPGefn",
-    "description": ""
-  },
-  {
-    "source": "Web (Google Search)",
-    "type": "article",
-    "title": "hatena.ne.jp",
-    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq_7TrjCk8UkhFlhc_yRIOyhxMMEoLnGEuLUIMryGr64ps-M0gSB1yp9bdPOkvT4nXQPKBzjs-gRahBw_r_-x165ICXiyPuavs32CpjEadR_goPKJ468-6j_sxXagsR7LHcdD6Vh0=",
-    "description": ""
-  },
-  {
-    "source": "Web (Google Search)",
-    "type": "article",
-    "title": "zenn.dev",
-    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELHiIOuZkauLEQ6-G2tWJtt_wXwGqNtBpcWOLkxR_1yecJ_sJxgFTalW7nZ0j2nCiqry3jbLuL6GLFUwvuhD-O9sq1GM0lEVyWUHOPfLmhBm9Axt5LSNxQGst0roDsG5E-iMICNS6hMbro",
-    "description": ""
-  },
-  {
-    "source": "Web (Google Search)",
-    "type": "article",
-    "title": "note.com",
-    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH98KJg2fsvBS92bEgUDYlTY3QoKVvK1-8JiXvH9Y7ImCOTGYuW-IqWl54BqBNEpLYXnTAgZ5NkNaKThtBo6HKkEBgE3AcXGhuWWQx7tLn_rX5Ro8dFKbFnEAb7xj_HInwSp5uHx1uQ",
-    "description": ""
   }
 ]
