@@ -59,6 +59,21 @@ GitHub リポジトリの Settings → Secrets → Actions:
 
 `GITHUB_TOKEN` は自動で提供されます。
 
+CLIで設定する場合:
+
+```bash
+# リポジトリルートで実行
+gh secret set GEMINI_API_KEY --body "AIza..."
+# Claude利用時のみ
+gh secret set ANTHROPIC_API_KEY --body "sk-ant-..."
+```
+
+設定確認（シークレット値は表示されません）:
+
+```bash
+gh secret list
+```
+
 ### 4. 動作確認
 
 ```bash
@@ -69,6 +84,9 @@ python scripts/collect.py
 # GitHub Actions で手動実行
 gh workflow run daily-collect.yml
 ```
+
+Claudeを使う場合は、`scripts/config.yaml` の `llm.provider` を `claude` に変更し、
+`ANTHROPIC_API_KEY` を設定してください。
 
 ## 出力
 

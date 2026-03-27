@@ -29,10 +29,6 @@ SCRIPT_DIR = Path(__file__).parent
 CONFIG_PATH = SCRIPT_DIR / "config.yaml"
 PROJECT_ROOT = SCRIPT_DIR.parent
 
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
-
 JST = timezone(timedelta(hours=9))
 
 _ssl_ctx = ssl.create_default_context()
@@ -47,18 +43,24 @@ def get_provider(config: dict) -> str:
     return config.get("llm", {}).get("provider", "gemini")
 
 
+def get_env(name: str) -> str:
+    return os.environ.get(name, "").strip()
+
+
 def get_api_key(config: dict) -> str:
     provider = get_provider(config)
     if provider == "gemini":
-        if not GEMINI_API_KEY:
+        api_key = get_env("GEMINI_API_KEY")
+        if not api_key:
             print("[ERROR] GEMINI_API_KEY not set", file=sys.stderr)
             sys.exit(1)
-        return GEMINI_API_KEY
+        return api_key
     else:
-        if not ANTHROPIC_API_KEY:
+        api_key = get_env("ANTHROPIC_API_KEY")
+        if not api_key:
             print("[ERROR] ANTHROPIC_API_KEY not set", file=sys.stderr)
             sys.exit(1)
-        return ANTHROPIC_API_KEY
+        return api_key
 
 
 # ============================================================
@@ -297,10 +299,11 @@ def collect_github(config: dict) -> list[dict]:
     min_stars = gh.get("min_stars", 0)
     since = (datetime.now(timezone.utc) - timedelta(days=days_back)).strftime("%Y-%m-%dT%H:%M:%SZ")
     items = []
+    github_token = get_env("GITHUB_TOKEN")
 
     headers = {"Accept": "application/vnd.github.v3+json"}
-    if GITHUB_TOKEN:
-        headers["Authorization"] = f"token {GITHUB_TOKEN}"
+    if github_token:
+        headers["Authorization"] = f"token {github_token}"
 
     for query in gh.get("search_queries", []):
         # stars:>=N でAPIレベルでフィルタ
