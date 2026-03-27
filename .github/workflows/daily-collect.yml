@@ -43,12 +43,14 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
           git add reports/
           if git diff --staged --quiet; then
             echo "No new reports to commit."
           else
             DATE=$(TZ=Asia/Tokyo date +%Y-%m-%d)
             git commit -m "📰 Daily AI Digest: ${DATE}"
+            git pull --rebase origin main
             git push
             echo "Report committed and pushed."
           fi
