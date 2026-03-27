@@ -1,0 +1,191 @@
+# ============================================================
+# Daily AI Digest - 収集設定
+# ============================================================
+
+# LLMプロバイダー設定
+# "gemini" (推奨・無料枠あり) or "claude"
+llm:
+  provider: "gemini"
+
+  gemini:
+    # 無料枠: 2.5 Flash = 15RPM, 1000RPD
+    model: "gemini-2.5-flash"
+
+  claude:
+    model: "claude-sonnet-4-20250514"
+
+# ============================================================
+# 収集テーマ
+# ============================================================
+themes:
+  harness_engineering:
+    label: "Harness Engineering"
+    keywords_en:
+      - "harness engineering AI agent"
+      - "agent harness design"
+      - "long-running agent harness"
+      - "coding agent harness"
+    keywords_ja:
+      - "ハーネスエンジニアリング"
+      - "エージェント ハーネス設計"
+
+  ai_agent:
+    label: "AI Agent 全般"
+    keywords_en:
+      - "AI agent architecture 2026"
+      - "autonomous coding agent"
+      - "multi-agent orchestration"
+      - "context engineering agent"
+    keywords_ja:
+      - "AIエージェント アーキテクチャ"
+      - "コーディングエージェント"
+
+  mcp_agent_skills:
+    label: "MCP × Agent Skills"
+    keywords_en:
+      - "MCP model context protocol agent"
+      - "MCP server design pattern"
+      - "agent skills architecture"
+    keywords_ja:
+      - "MCP エージェント スキル"
+      - "Model Context Protocol 設計"
+
+# ============================================================
+# GitHub 収集設定
+# ============================================================
+github:
+  topics:
+    - "harness-engineering"
+    - "agent-harness"
+    - "context-engineering"
+    - "mcp-server"
+    - "coding-agent"
+
+  search_queries:
+    - "harness engineering agent"
+    - "agent harness coding"
+    - "MCP server template"
+    - "CLAUDE.md AGENTS.md"
+
+  watch_repos:
+    - "anthropics/anthropic-cookbook"
+    - "anthropics/courses"
+    - "modelcontextprotocol/servers"
+    - "AutoJunjie/awesome-agent-harness"
+    - "langchain-ai/langchain"
+
+  # Star数フィルタ: この値以上のリポジトリのみ収集
+  min_stars: 100
+
+  days_back: 1
+
+# ============================================================
+# RSS フィード収集
+# ============================================================
+rss:
+  feeds:
+    # Zenn
+    - url: "https://zenn.dev/feed"
+      name: "Zenn"
+      lang: "ja"
+    - url: "https://zenn.dev/topics/claudecode/feed"
+      name: "Zenn (Claude Code)"
+      lang: "ja"
+    - url: "https://zenn.dev/topics/mcp/feed"
+      name: "Zenn (MCP)"
+      lang: "ja"
+    # Qiita
+    - url: "https://qiita.com/tags/claudecode/feed"
+      name: "Qiita (Claude Code)"
+      lang: "ja"
+    - url: "https://qiita.com/tags/mcp/feed"
+      name: "Qiita (MCP)"
+      lang: "ja"
+    - url: "https://qiita.com/tags/ai-agent/feed"
+      name: "Qiita (AI Agent)"
+      lang: "ja"
+    # Medium (タグ別RSS)
+    - url: "https://medium.com/feed/tag/harness-engineering"
+      name: "Medium (Harness Engineering)"
+      lang: "en"
+    - url: "https://medium.com/feed/tag/ai-agents"
+      name: "Medium (AI Agents)"
+      lang: "en"
+    - url: "https://medium.com/feed/tag/coding-agents"
+      name: "Medium (Coding Agents)"
+      lang: "en"
+    - url: "https://medium.com/feed/tag/context-engineering"
+      name: "Medium (Context Engineering)"
+      lang: "en"
+    - url: "https://medium.com/feed/tag/mcp"
+      name: "Medium (MCP)"
+      lang: "en"
+    # 著名著者のMedium個人フィード
+    - url: "https://medium.com/feed/@aakashgupta"
+      name: "Medium (Aakash Gupta)"
+      lang: "en"
+    # Anthropic Engineering Blog
+    - url: "https://www.anthropic.com/engineering/rss.xml"
+      name: "Anthropic Engineering"
+      lang: "en"
+    # OpenAI Blog
+    - url: "https://openai.com/blog/rss.xml"
+      name: "OpenAI Blog"
+      lang: "en"
+    # Martin Fowler
+    - url: "https://martinfowler.com/feed.atom"
+      name: "Martin Fowler"
+      lang: "en"
+    # HumanLayer
+    - url: "https://www.humanlayer.dev/blog/rss.xml"
+      name: "HumanLayer"
+      lang: "en"
+
+  filter_keywords:
+    - "harness"
+    - "agent"
+    - "MCP"
+    - "Claude Code"
+    - "Codex"
+    - "coding agent"
+    - "context engineering"
+    - "ハーネス"
+    - "エージェント"
+    - "自律"
+
+  days_back: 1
+
+# ============================================================
+# arXiv 収集設定
+# ============================================================
+arxiv:
+  queries:
+    - "agent harness software engineering"
+    - "autonomous coding agent"
+    - "LLM agent orchestration"
+    - "model context protocol"
+    - "multi-agent software development"
+  max_results_per_query: 5
+  days_back: 3
+
+# ============================================================
+# Web検索
+# ============================================================
+web_search:
+  queries:
+    - "harness engineering AI agent site:x.com OR site:twitter.com"
+    - "coding agent harness site:x.com OR site:twitter.com"
+    - "harness engineering coding agent new"
+    - "agent harness best practices 2026"
+    - "MCP agent skills architecture new"
+    - "ハーネスエンジニアリング 新着"
+    - "AIエージェント ハーネス設計"
+    - "Claude Code ハーネス"
+
+# ============================================================
+# レポート設定
+# ============================================================
+report:
+  output_dir: "reports"
+  language: "ja"
+  max_items_per_section: 10
