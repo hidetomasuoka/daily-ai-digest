@@ -68,7 +68,18 @@ def get_api_key(config: dict) -> str:
 # ============================================================
 
 def http_get(url: str, headers: dict = None, timeout: int = 30) -> str:
-    req = urllib.request.Request(url, headers=headers or {})
+    default_headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/123.0.0.0 Safari/537.36"
+        ),
+        "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+    }
+    req_headers = default_headers.copy()
+    if headers:
+        req_headers.update(headers)
+    req = urllib.request.Request(url, headers=req_headers)
     try:
         with urllib.request.urlopen(req, timeout=timeout, context=_ssl_ctx) as resp:
             return resp.read().decode("utf-8", errors="replace")

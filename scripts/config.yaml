@@ -124,22 +124,18 @@ rss:
     - url: "https://medium.com/feed/@aakashgupta"
       name: "Medium (Aakash Gupta)"
       lang: "en"
-    # Anthropic Engineering Blog
-    - url: "https://www.anthropic.com/engineering/rss.xml"
-      name: "Anthropic Engineering"
-      lang: "en"
     # OpenAI Blog
-    - url: "https://openai.com/blog/rss.xml"
+    - url: "https://openai.com/news/rss.xml"
       name: "OpenAI Blog"
       lang: "en"
     # Martin Fowler
     - url: "https://martinfowler.com/feed.atom"
       name: "Martin Fowler"
       lang: "en"
-    # HumanLayer
-    - url: "https://www.humanlayer.dev/blog/rss.xml"
-      name: "HumanLayer"
-      lang: "en"
+    # Baidu News RSS (国内)
+    - url: "https://news.baidu.com/n?cmd=4&class=civilnews&tn=rss"
+      name: "Baidu News (CN)"
+      lang: "zh"
 
   filter_keywords:
     - "harness"
@@ -152,6 +148,10 @@ rss:
     - "ハーネス"
     - "エージェント"
     - "自律"
+    - "agentic"
+    - "智能体"
+    - "代理"
+    - "百度"
 
   days_back: 1
 
