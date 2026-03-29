@@ -1,0 +1,297 @@
+[
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "ModelEngine-Group/nexent",
+    "url": "https://github.com/ModelEngine-Group/nexent",
+    "description": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.",
+    "stars": 4380,
+    "updated": "2026-03-29T18:39:22Z",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-rag",
+      "agentic-workflow",
+      "ai",
+      "harness",
+      "harness-engineering",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "rag"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "AltimateAI/altimate-code",
+    "url": "https://github.com/AltimateAI/altimate-code",
+    "description": "Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 warehouses, AI-powered.",
+    "stars": 435,
+    "updated": "2026-03-29T17:15:16Z",
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agentic-data-engineering",
+      "ai",
+      "analytics-engineering",
+      "bigquery",
+      "cli",
+      "data-engineering",
+      "databricks",
+      "dbt",
+      "finops",
+      "harness-engineering",
+      "lineage",
+      "llm",
+      "opencode",
+      "postgresql",
+      "snowflake",
+      "sql",
+      "workflow-automation-ai"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "bgdnvk/clanker",
+    "url": "https://github.com/bgdnvk/clanker",
+    "description": "autonomous systems engineering cli agent for any cloud environment: AWS, GCP, Cloudflare, etc",
+    "stars": 224,
+    "updated": "2026-03-29T13:53:47Z",
+    "language": "Go",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "ai-ops",
+      "aws",
+      "clanker",
+      "cli",
+      "cloudflare",
+      "cloudflare-workers",
+      "devops",
+      "gcp",
+      "golang",
+      "harness",
+      "infrastructure",
+      "kubernetes",
+      "ml",
+      "observability",
+      "openclaw",
+      "sre",
+      "terraform"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "affaan-m/everything-claude-code",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "stars": 116372,
+    "updated": "2026-03-29T22:09:43Z",
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "bytedance/deer-flow",
+    "url": "https://github.com/bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "stars": 52428,
+    "updated": "2026-03-29T21:59:38Z",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "deep-research",
+      "harness",
+      "langchain",
+      "langgraph",
+      "langmanus",
+      "llm",
+      "multi-agent",
+      "nodejs",
+      "podcast",
+      "python",
+      "superagent",
+      "typescript"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "shareAI-lab/learn-claude-code",
+    "url": "https://github.com/shareAI-lab/learn-claude-code",
+    "description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
+    "stars": 42614,
+    "updated": "2026-03-29T22:04:53Z",
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agent-development",
+      "ai-agent",
+      "claude",
+      "claude-code",
+      "educational",
+      "llm",
+      "python",
+      "teaching",
+      "tutorial"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "can1357/oh-my-pi",
+    "url": "https://github.com/can1357/oh-my-pi",
+    "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "stars": 2448,
+    "updated": "2026-03-29T21:11:45Z",
+    "language": "TypeScript",
+    "topics": [
+      "ai-agent",
+      "ai-coding-agent",
+      "anthropic",
+      "bun",
+      "claude",
+      "cli",
+      "coding-assistant",
+      "llm",
+      "mcp",
+      "multi-provider",
+      "openai",
+      "rust",
+      "terminal",
+      "tui",
+      "typescript"
+    ]
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "Claude Code × ChatGPT × Gemini AI共生戦略 ~ モデル単体比較に潜む落とし穴 ~",
+    "url": "https://qiita.com/mellowlaunch/items/49256d66e91b5327e6bf",
+    "description": "",
+    "updated": "2026-03-30T06:06:37+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "OWASP MCP Top 10の全リスクをClaude Code hookで防ぐ実装ガイド",
+    "url": "https://qiita.com/yurukusa/items/574e0572db4deee35e71",
+    "description": "",
+    "updated": "2026-03-30T02:32:17+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "【J-SIX#0】J-SIX — Claude Code で日本のSI開発プロセスを再定義する",
+    "url": "https://qiita.com/SeckeyJP/items/e4726bbbbf4d7949ab0f",
+    "description": "",
+    "updated": "2026-03-30T01:51:59+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "Amazon Bedrock AgentCore Runtime が Stateful MCP サーバー機能に対応",
+    "url": "https://qiita.com/leomarokun/items/4316a033c1b0723d8cba",
+    "description": "",
+    "updated": "2026-03-30T00:51:45+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "AI駆動開発で利用するMCPツール",
+    "url": "https://qiita.com/kalki/items/82277b5baf2448581896",
+    "description": "",
+    "updated": "2026-03-30T00:13:06+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "ローカル LLM を自律エージェントにした — Claude Code から呼べる ReAct MCP サーバー",
+    "url": "https://qiita.com/tsunamayo7/items/c08204ef46758e3ea456",
+    "description": "",
+    "updated": "2026-03-29T23:34:31+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "Web (Google Search)",
+    "type": "article",
+    "title": "codezine.jp",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDoAwETwhzkd27OH1wD1_FlsF1BWKUlYd3RDHO0Kkp90zELeqkYzd8vzcxHrXOOwwtPOm6fholmpx6gcpYZ7WgaE0UXELQkO1PTh7SCgO1j5HBRAfpGu8b7bPMA9Cq_0lNc2o=",
+    "description": ""
+  },
+  {
+    "source": "Web (CodeZine)",
+    "type": "article",
+    "title": "コードを書くだけの時間は終わったのか。U35エンジニアが語る、AI時代を生き抜くための「越境」と「研鑽」 (1/4)",
+    "url": "https://codezine.jp/article/detail/19717",
+    "description": "U35エンジニアがAI時代を生き抜くためのキャリア戦略、技術と挑戦を軸に実践を語る。"
+  },
+  {
+    "source": "Web (Google Search)",
+    "type": "article",
+    "title": "medium.com",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5WD-xyyIpeFsLAbLAzQ92DP4i3d2Sf3rQIZEO88RyM91YgSUdPg6mOpJF2Zwpi9kDguTbXSDSxa-cptrpYE6NL3-N5A_rY54J33DwbKUBz91rtLfefYmK8BGh9CeH-oslPr1nRrtiHXOpDi96rHh43mpb7iyRT6pSYTMsKSSd2Gdh1bcY5BvsUMa97dtW6MSq4VxcBWRtZlwPtUFaVQ-t4__hvhhCkfhdviWGyA==",
+    "description": ""
+  },
+  {
+    "source": "Web (Google Search)",
+    "type": "article",
+    "title": "mcpmarket.com",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnSIecqOoXc-bg-VgPACvZ7k-wBAUNOvQorCA0H2l3fMRf2mTHyB9I8Hni8qXR4oV1BO5pw2W6v3nHJ9FrS-VOR9Aa_g05zhFXFoxdK3QXpFeHVxgS3HIVwKNravcroU9gox7lc9pWQjMbpkmM4eiR_B0ALTHWEA83HQ==",
+    "description": ""
+  },
+  {
+    "source": "Web (Google Search)",
+    "type": "article",
+    "title": "mcpmarket.com",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe6l3Ujpchwl2NllNeYODZPSsP3NuiZ9s2A83Ff6Z_t02ho_Tjsi5_HAxOPghl7UPAgj8p2DTmCFp2CuIqhcNUKnLCxy5cti0W9OfsSZ3ncSJwAFXhh0WyB-TThoCio7YN9Mq6Zq73uq00Y7hdNSoflHSKVbGmnRk=",
+    "description": ""
+  },
+  {
+    "source": "Web (Google Search)",
+    "type": "article",
+    "title": "medium.com",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAFwQFUCZSyjZ5PL0ROXa-2Ld222-evUrOPXkxfYa8uso8j2FR-hUfcSDs1c4nnJyZh8aWrb7GFfwOzQq5qxE6GkswAKjqG2_w62Vx9XPUmS9A-UPkk8RIMV6f5U4mdRgKnkSTQARiZ0SNSx7AuXMAS9QHdZ5caLyLuff927dma9d6IAc6Kj4ClMfOXAYfcc4u",
+    "description": ""
+  },
+  {
+    "source": "Web (Google Search)",
+    "type": "article",
+    "title": "youtube.com",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaA_sSfKaT3bnD4aBf9SvTn5NdI147b0MzQikaWXe5y8n-I6KH5rhs-32xnwo7BFBJUHEPqkPpcglgmXo2z1_KK8a2Fj_rGronxMbQFL616bap9XlEs68htoDlGQM-BVBiWGa0FQ==",
+    "description": ""
+  },
+  {
+    "source": "Web (Google Search)",
+    "type": "article",
+    "title": "techtidesolutions.com",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGC6hNhWSUG8Omb_s8pUdJqMLNzKs31D6rVnf996FXrnW1iHVluCMVP3xyzIDKov8u8jMimO1QXiZ3K9noduRkPQ9Pt_qm0-kixBRL5ReWa0IHkNomX5Zy-wx332Xq4C_OrJn-qYA-J69_XVtkoCii1bA3bS0b7sp27oKY=",
+    "description": ""
+  }
+]
