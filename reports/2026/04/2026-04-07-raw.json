@@ -1,0 +1,296 @@
+[
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "AltimateAI/altimate-code",
+    "url": "https://github.com/AltimateAI/altimate-code",
+    "description": "Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 warehouses, AI-powered.",
+    "stars": 497,
+    "updated": "2026-04-06T16:52:15Z",
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agentic-data-engineering",
+      "ai",
+      "analytics-engineering",
+      "bigquery",
+      "cli",
+      "data-engineering",
+      "databricks",
+      "dbt",
+      "finops",
+      "harness-engineering",
+      "lineage",
+      "llm",
+      "opencode",
+      "postgresql",
+      "snowflake",
+      "sql",
+      "workflow-automation-ai"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "Picrew/awesome-agent-harness",
+    "url": "https://github.com/Picrew/awesome-agent-harness",
+    "description": "An awesome list of Agent Harness engineering resources, including GitHub projects, tools, benchmarks, and practical guides.",
+    "stars": 129,
+    "updated": "2026-04-06T13:25:39Z",
+    "language": "Python",
+    "topics": [
+      "agent-harness",
+      "context-engineering",
+      "harness-engineering"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "affaan-m/everything-claude-code",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "stars": 142579,
+    "updated": "2026-04-06T22:12:48Z",
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "bytedance/deer-flow",
+    "url": "https://github.com/bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "stars": 58595,
+    "updated": "2026-04-06T22:06:43Z",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "deep-research",
+      "harness",
+      "langchain",
+      "langgraph",
+      "langmanus",
+      "llm",
+      "multi-agent",
+      "nodejs",
+      "podcast",
+      "python",
+      "superagent",
+      "typescript"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "can1357/oh-my-pi",
+    "url": "https://github.com/can1357/oh-my-pi",
+    "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "stars": 2706,
+    "updated": "2026-04-06T21:33:42Z",
+    "language": "TypeScript",
+    "topics": [
+      "ai-agent",
+      "ai-coding-agent",
+      "anthropic",
+      "bun",
+      "claude",
+      "cli",
+      "coding-assistant",
+      "llm",
+      "mcp",
+      "multi-provider",
+      "openai",
+      "rust",
+      "terminal",
+      "tui",
+      "typescript"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "peteromallet/desloppify",
+    "url": "https://github.com/peteromallet/desloppify",
+    "description": "Agent harness to make your slop code well-engineered and beautiful.",
+    "stars": 2697,
+    "updated": "2026-04-06T21:59:58Z",
+    "language": "Python",
+    "topics": [
+      "agent-harness"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "lintsinghua/claude-code-book",
+    "url": "https://github.com/lintsinghua/claude-code-book",
+    "description": "《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站：",
+    "stars": 2176,
+    "updated": "2026-04-06T22:12:22Z",
+    "language": null,
+    "topics": [
+      "agent",
+      "agent-architecture",
+      "ai-agent",
+      "anthropic",
+      "book",
+      "chinese",
+      "claude-code",
+      "llm",
+      "mcp"
+    ]
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "Anthropicの課金変更でClaude Codeが従量制に。ローカルLLMという選択肢を検証した",
+    "url": "https://qiita.com/kenimo49/items/af514033f85366ead6c5",
+    "description": "",
+    "updated": "2026-04-07T07:06:56+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": " Claude Code の statusLine を自作する ― モデル / コンテキスト / レート制限を 2〜3 行で全部見せる",
+    "url": "https://qiita.com/kiyotaman/items/d2a277b00acad4e1a3c5",
+    "description": "",
+    "updated": "2026-04-07T02:03:16+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "【緊急警告】MCPサーバーが60日で30件のCVE！Azure脆弱性は「認証ゼロ」でCVSS 9.1",
+    "url": "https://qiita.com/emi_ndk/items/c3b99612ec044e5d612e",
+    "description": "",
+    "updated": "2026-04-07T00:11:30+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "Claude CodeのMCPツール、中身見たことある？ — ツールポイズニング6パターンを実際に試してみた",
+    "url": "https://qiita.com/sharu389no/items/a1e9b0646f298ae538c6",
+    "description": "",
+    "updated": "2026-04-07T00:03:51+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "MCPサーバーを自作して、GitHub Copilotからナレッジグラフを雑に育てる仕組みを作った",
+    "url": "https://qiita.com/tobita_yoshiki/items/f52b2cc36651ea6cd785",
+    "description": "",
+    "updated": "2026-04-06T22:33:53+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "Claude Codeのブラウザ自動化でReactフォームが埋まらない問題を、Vercel agent-browserで根本解決した",
+    "url": "https://qiita.com/tsunamayo7/items/c3e846ca8c6f940078d5",
+    "description": "",
+    "updated": "2026-04-06T17:00:20+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "Web (Google Search)",
+    "type": "article",
+    "title": "note.com",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyADqGrAo_p4DSdDFZATa0A-aAPU7o28q4vvNBDrbnIyOWhI2AwlRaCUM2Eq4TRALxSBXlHoW0NPpVIwn694MQIFbzCCVO8o4k1mJFQ0MmwvRkbRQNXZJOX_a-LzcvxRKPrBM30Sg=",
+    "description": ""
+  },
+  {
+    "source": "Web (Google Search)",
+    "type": "article",
+    "title": "hatenablog.com",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9VfsOmTXvSNMFGU2G7i1jCoHTfHIbREXH62Q-AbJ4yv6HdBnWfuEdL4pgNfxPQSVT7uzVy1OTTIeKBRgOxCBl2jdhCB5BGPHcY5im71ok_k4x9SrUheqrewExzcWIJSYFtoCDEBbzx93WGWJssECkbTRzXCg=",
+    "description": ""
+  },
+  {
+    "source": "Web (Google Search)",
+    "type": "article",
+    "title": "note.com",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4hkOFUkJnmEh9udRMMh7rvpCe37SdIMvD8tbXyXS9zphE-IeWcrQ71QviEEvK34tKDMl6gYjZCOoh-28AVHYq5NmlvNZp4E-uzvTtoPP4B-wJKkYowj38vIueltfiIynJZnoe3Cj9",
+    "description": ""
+  },
+  {
+    "source": "Web (Google Search)",
+    "type": "article",
+    "title": "note.com",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExtddWm3WluKoPmSr6ik48i6RSiLXRnhceES5x1Gb7VffrETtPJn4tuEZ-s0J6eogT8G4CQwF4WU6cJgrvEjEkGgAqf4W0cc_hEONAoXGkDe92qvkjE4u7TFCO6HyHTCx2cwOT8-k=",
+    "description": ""
+  },
+  {
+    "source": "Web (Google Search)",
+    "type": "article",
+    "title": "youtube.com",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0H0Rls4sXHtMGXgdfEhsCNRo6VCGwDjTa5B3hUoFCm_7DgrAIhLRW0SsMuh-I_ZGgixi1Nvi2nteC0OfMZY4_wq0-EFtn0YWN9ocXMrluAXT9ykqADw0xNR82xsly3CJEwt6_Mvw=",
+    "description": ""
+  },
+  {
+    "source": "Web (Google Search)",
+    "type": "article",
+    "title": "classmethod.jp",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR45UcTqJa-2-yBND73MPIetQ23tuI8tgvxM5U2hL_-yMtWbwJch8XXGSIwPjcejMJtIdSIj9IAKqVjFik2DPxLJZvKVl83d6rqqnudpuEzuIuBVZQgWIJ6QVXkSYYftK1-MNDxmPkmlFF5XAUIOq6XxED5doATCsgB6k=",
+    "description": ""
+  },
+  {
+    "source": "Web (note)",
+    "type": "article",
+    "title": "【Claude Code】ハーネス実用段階",
+    "url": "https://note.com/jun_0257/n/na85c82270921",
+    "description": "Claude Codeのハーネスが実用段階に入り、人間チェックが減少したという記事。"
+  },
+  {
+    "source": "Web (Blog)",
+    "type": "article",
+    "title": "Anthropic「Conway」完全解説｜常時稼働AIエージェントの仕組み・機能・Claude Codeとの違い【2026年4月最新】",
+    "url": "https://shimayo0218.hatenablog.com/entry/2026/04/05/012658",
+    "description": "AnthropicのConwayとClaude Codeハーネスの仕組み・構成要素を解説。"
+  },
+  {
+    "source": "Web (note)",
+    "type": "article",
+    "title": "【完全解説】ハーネスエンジニアリング徹底解説！AIエージェントの設計力で差がつく時代です",
+    "url": "https://note.com/masahiro_kon/n/n2b22591e6c31",
+    "description": "AIエージェントの品質を設計で制御するハーネスエンジニアリングを解説。"
+  },
+  {
+    "source": "Web (note)",
+    "type": "article",
+    "title": "【AI週報 3/30~4/5】AutoAgentが人間を超え、Anthropicの出荷ペースが上がった",
+    "url": "https://note.com/kiki_engineer/n/n9268f7035616",
+    "description": "AI週報でClaude Codeハーネスの設定やHarness Engineeringに言及。"
+  },
+  {
+    "source": "Web (YouTube)",
+    "type": "article",
+    "title": "【完全解説】ハーネスエンジニアリング入門｜AIコーディングエージェントを「手綱」で制御する方法【Claude Code】",
+    "url": "https://www.youtube.com/watch?v=Fj2F2Xm-tV0",
+    "description": "Claude Codeを用いたAIコーディングエージェントのハーネス制御方法を解説。"
+  },
+  {
+    "source": "Web (Blog)",
+    "type": "article",
+    "title": "Snyk Studio × Claude Code でコード生成時のセキュリティスキャンを自動化してみる",
+    "url": "https://dev.classmethod.jp/articles/snyk-studio-claude-code-security-scan-automation/",
+    "description": "Claude Codeハーネスでセキュリティスキャンを自動化する事例を紹介。"
+  }
+]
