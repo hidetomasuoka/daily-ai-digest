@@ -1,0 +1,314 @@
+[
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "ModelEngine-Group/nexent",
+    "url": "https://github.com/ModelEngine-Group/nexent",
+    "description": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.",
+    "stars": 4328,
+    "updated": "2026-04-15T16:31:41Z",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-rag",
+      "agentic-workflow",
+      "ai",
+      "harness",
+      "harness-engineering",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "rag"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "AltimateAI/altimate-code",
+    "url": "https://github.com/AltimateAI/altimate-code",
+    "description": "Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 warehouses, AI-powered.",
+    "stars": 533,
+    "updated": "2026-04-14T16:31:14Z",
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agentic-data-engineering",
+      "ai",
+      "analytics-engineering",
+      "bigquery",
+      "cli",
+      "data-engineering",
+      "databricks",
+      "dbt",
+      "finops",
+      "harness-engineering",
+      "lineage",
+      "llm",
+      "opencode",
+      "postgresql",
+      "snowflake",
+      "sql",
+      "workflow-automation-ai"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "Picrew/awesome-agent-harness",
+    "url": "https://github.com/Picrew/awesome-agent-harness",
+    "description": "An awesome list of Agent Harness engineering resources, including GitHub projects, tools, benchmarks, and practical guides.",
+    "stars": 206,
+    "updated": "2026-04-15T22:18:07Z",
+    "language": "Python",
+    "topics": [
+      "agent-harness",
+      "context-engineering",
+      "harness-engineering"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "affaan-m/everything-claude-code",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "stars": 157335,
+    "updated": "2026-04-15T22:17:04Z",
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "bytedance/deer-flow",
+    "url": "https://github.com/bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "stars": 61793,
+    "updated": "2026-04-15T22:15:03Z",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "deep-research",
+      "harness",
+      "langchain",
+      "langgraph",
+      "langmanus",
+      "llm",
+      "multi-agent",
+      "nodejs",
+      "podcast",
+      "python",
+      "superagent",
+      "typescript"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "rohitg00/agentmemory",
+    "url": "https://github.com/rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+    "stars": 1655,
+    "updated": "2026-04-15T21:53:23Z",
+    "language": "TypeScript",
+    "topics": [
+      "agentmemory",
+      "agents",
+      "ai",
+      "claude",
+      "claudecode",
+      "codex",
+      "copilot",
+      "cursor",
+      "genai",
+      "harness",
+      "hermes",
+      "memory",
+      "openclaw"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "e10nMa2k/cc-mini",
+    "url": "https://github.com/e10nMa2k/cc-mini",
+    "description": "Ultra-light Harness scaffolding for AI agents, a mini version of claude code ",
+    "stars": 797,
+    "updated": "2026-04-15T14:03:35Z",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "agent-sh/agnix",
+    "url": "https://github.com/agent-sh/agnix",
+    "description": "The missing linter and lsp for AI coding assistants. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP. Plugin for all major IDEs included, with autofixes.",
+    "stars": 178,
+    "updated": "2026-04-15T19:26:48Z",
+    "language": "Rust",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "ai-coding-assistant",
+      "claude",
+      "cli",
+      "code-quality",
+      "codex",
+      "copilot",
+      "cursor",
+      "devtools",
+      "linter",
+      "llm",
+      "lsp",
+      "mcp",
+      "opencode",
+      "rust",
+      "skills",
+      "vscode",
+      "vscode-extension"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "release",
+    "title": "langchain-ai/langchain - langchain-core==1.2.30",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.30",
+    "description": "Changes since langchain-core==1.2.29\n\nrelease(core): 1.2.30 (#36770)\nchore(core): harden private SSRF utilities (port 36768) (#36769)",
+    "updated": "2026-04-15T20:37:29Z"
+  },
+  {
+    "source": "GitHub",
+    "type": "release",
+    "title": "langchain-ai/langchain - langchain-openai==1.1.13",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.1.13",
+    "description": "Changes since langchain-openai==1.1.12\n\nrelease(openai): 1.1.13 (#36729)\nfix(openai): handle content blocks without type key in responses api conversion (#36725)\nchore(model-profiles): refresh model profile data (#36539)\nchore(openai): fix broken vcr cassette playback and add ci guard (#36502)\nfix(openai,groq,openrouter): use is-not-None checks in usage metadata token extraction (#36500)\nfix(core): fixed typos in the documentation (#36459)\nchore(model-profiles): refresh model profile data (#3645",
+    "updated": "2026-04-15T01:37:32Z"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "MCPの設定、addだけで終わる話じゃない。知っておくべきClaude Codeの上級テクニック8選",
+    "url": "https://qiita.com/moha0918_/items/0ac1abef9834b3e3dbec",
+    "description": "",
+    "updated": "2026-04-16T07:08:25+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "Claude Codeの新UI、見た目の話じゃない。AI開発が「1人1チャット」から「並列運用」に変わり始めた",
+    "url": "https://qiita.com/taketsuyo/items/ce96b2bbac00654ae566",
+    "description": "",
+    "updated": "2026-04-16T00:35:56+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "Claude Code で Chrome DevTools MCP と Playwright MCP を同時に使ってフロントエンドを品質チェックする",
+    "url": "https://qiita.com/toguri/items/571b5ebb7c9243b807f4",
+    "description": "",
+    "updated": "2026-04-15T23:35:52+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "【脱・RAG】n8n × Dify で「自社専用MCPサーバー」を構築し、Claude Codeに生きた情報を流し込む技術",
+    "url": "https://qiita.com/YushiYamamoto/items/62075ffdf312fa9c38a6",
+    "description": "",
+    "updated": "2026-04-15T22:40:37+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "【textlint】Deno×MCPで設定を一元化、どこからでも校正",
+    "url": "https://qiita.com/yuhisato/items/af53c6125ec79629ac17",
+    "description": "",
+    "updated": "2026-04-15T23:22:13+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (AI Agent))",
+    "type": "article",
+    "title": "The Colony vs Moltbook vs Agentchan vs Agent Arena — AI エージェント向けソーシャルネットワークの正直な比較",
+    "url": "https://qiita.com/ColonistOne/items/b9742d86b1a284313d20",
+    "description": "",
+    "updated": "2026-04-15T22:09:06+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "arXiv",
+    "type": "paper",
+    "title": "oxo-call: Documentation-grounded Skill Augmentation for Accurate Bioinformatics Command-line Generation with Large Language Models",
+    "url": "https://arxiv.org/abs/2604.12387v1",
+    "description": "Command-line bioinformatics tools remain essential for genomic analysis, yet their diversity in syntax and parameterization presents a persistent barrier to productive research. We present oxo-call, a Rust-based command-line assistant that translates natural-language task descriptions into accurate tool invocations through two complementary strategies: documentation-first grounding, which provides",
+    "authors": "Yun Peng, Yujun Sun, Jia Ding",
+    "updated": "2026-04-14T07:20:23Z"
+  },
+  {
+    "source": "arXiv",
+    "type": "paper",
+    "title": "Coding-Free and Privacy-Preserving MCP Framework for Clinical Agentic Research Intelligence System",
+    "url": "https://arxiv.org/abs/2604.12258v1",
+    "description": "Clinical research involves labor-intensive processes such as study design, cohort construction, model development, and documentation, requiring domain expertise, programming skills, and access to sensitive patient data. These demands create barriers for clinicians and external researchers conducting data-driven studies. To overcome these limitations, we developed a Clinical Agentic Research Intell",
+    "authors": "Taehun Kim, Hyeryun Park, Hyeonhoon Lee",
+    "updated": "2026-04-14T04:22:44Z"
+  },
+  {
+    "source": "arXiv",
+    "type": "paper",
+    "title": "Resilient Write: A Six-Layer Durable Write Surface for LLM Coding Agents",
+    "url": "https://arxiv.org/abs/2604.10842v2",
+    "description": "LLM-powered coding agents increasingly rely on tool-use protocols such as the Model Context Protocol (MCP) to read and write files on a developer's workstation. When a write fails - due to content filters, truncation, or an interrupted session - the agent typically receives no structured signal, loses the draft, and wastes tokens retrying blindly. We present Resilient Write, an MCP server that int",
+    "authors": "Justice Owusu Agyemang, Jerry John Kponyo, Elliot Amponsah",
+    "updated": "2026-04-12T22:23:55Z"
+  },
+  {
+    "source": "Web (Google Search)",
+    "type": "article",
+    "title": "googleblog.com",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnBuyMWjbQl1tB3Jr84590trT40A2YqZ_PgwrZ8Ila3R3mw9E0cq9BnxyjDkcxo1kPQyE6_h3t-HrxKZPoK9ZQRcxeBCTfM2VJ09nGgWd-ZEMHez52mZaN0KxqFtRxsiAqK5N30ZrEpYb2ZeIz5aZav329uoZS35Mcu1x7_zPd0RpKFR-P6lTFc6qTKNTY1IiA6d2Uu7ipNDlNmY0L",
+    "description": ""
+  },
+  {
+    "source": "Web (Webメディア)",
+    "type": "article",
+    "title": "週間アクティブユーザー300万人にのぼるCodex、OpenAI Japanの瀬良氏に聞く「開発スタイル」の変化 | gihyo.jp",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3UFwIwXIw9VskrTYcatdQTWvrZlAr6tkQVEpyMYsHvy1ig2l7uHm07pL6Z18VSEJ__d80MPhAhdBxEnz-azUKpVubb8anLXydMITYbiyrYLCFIQfyFDOhHedNDzRdXB7s5drXwz5teF2R_HjfUGxQ5YEqo6oqbbb5TKq_JWMXC74UTy1kq8Z-",
+    "description": "OpenAI Japanの瀬良氏がハーネスエンジニアリングによる開発スタイルの変化と自律駆動の実現について解説しています。"
+  },
+  {
+    "source": "Web (Google Search)",
+    "type": "article",
+    "title": "uravation.com",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKEeTcvTs9vle6CJcs34mJ3mXF_84iSheXX9XDFnjUXF174AoP9d1WvHF-pKwhqt6PbGQBz72IyigLZ9jGd-SAA3PMd_kQKHN2i_e1A6r-RdjntIbbe90gsvw5my4QMxhv8oLGMDFeKPqmWtnIH7Ku23CRQr7u2n9dr08LD-pF_42gGf9H9OJv",
+    "description": ""
+  },
+  {
+    "source": "Web (Blog)",
+    "type": "article",
+    "title": "【2026年4月速報】Nexus $4.3M調達｜非エンジニアが4週間でAIエージェントを本番展開する時代の到来",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKEeTcvTs9vle6CJcs34mJ3mXF_84iSheXX9XDFnjUXF174AoP9d1WvHF-pKwhqt6PbGQBz72IyigLZ9jGd-SAA3PMd_kQKHN2i_e1A6r-RdjntIbbe90gsvw5my4QMxhv8oLGMDFeKPqmWtnIH3Ku23CRQr7u2n9dr08LD-pF_42gGf9H9OJQ",
+    "description": "Nexusが4.3Mドルを調達し、非エンジニアでもAIエージェントを4週間で本番展開できる時代が到来。"
+  }
+]
