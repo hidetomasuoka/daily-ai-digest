@@ -1,0 +1,297 @@
+[
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "ModelEngine-Group/nexent",
+    "url": "https://github.com/ModelEngine-Group/nexent",
+    "description": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.",
+    "stars": 4352,
+    "updated": "2026-04-17T21:56:00Z",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-rag",
+      "agentic-workflow",
+      "ai",
+      "harness",
+      "harness-engineering",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "rag"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "WakeUp-Jin/Practical-Guide-to-Context-Engineering",
+    "url": "https://github.com/WakeUp-Jin/Practical-Guide-to-Context-Engineering",
+    "description": "大模型应用开发的方向，上下文工程是设计原则，Agent Harness 是构建目标，本项目的目标，是为开发者和研究者提供一份大模型应用开发的骨架思路",
+    "stars": 568,
+    "updated": "2026-04-17T14:23:31Z",
+    "language": null,
+    "topics": [
+      "javascript",
+      "typescript"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "AltimateAI/altimate-code",
+    "url": "https://github.com/AltimateAI/altimate-code",
+    "description": "Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 warehouses, AI-powered.",
+    "stars": 535,
+    "updated": "2026-04-17T16:37:55Z",
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agentic-data-engineering",
+      "ai",
+      "analytics-engineering",
+      "bigquery",
+      "cli",
+      "data-engineering",
+      "databricks",
+      "dbt",
+      "finops",
+      "harness-engineering",
+      "lineage",
+      "llm",
+      "opencode",
+      "postgresql",
+      "snowflake",
+      "sql",
+      "workflow-automation-ai"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "Picrew/awesome-agent-harness",
+    "url": "https://github.com/Picrew/awesome-agent-harness",
+    "description": "An awesome list of Agent Harness engineering resources, including GitHub projects, tools, benchmarks, and practical guides.",
+    "stars": 214,
+    "updated": "2026-04-17T20:14:17Z",
+    "language": "Python",
+    "topics": [
+      "agent-harness",
+      "context-engineering",
+      "harness-engineering"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "bytedance/deer-flow",
+    "url": "https://github.com/bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "stars": 62287,
+    "updated": "2026-04-17T22:01:22Z",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "deep-research",
+      "harness",
+      "langchain",
+      "langgraph",
+      "langmanus",
+      "llm",
+      "multi-agent",
+      "nodejs",
+      "podcast",
+      "python",
+      "superagent",
+      "typescript"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "can1357/oh-my-pi",
+    "url": "https://github.com/can1357/oh-my-pi",
+    "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "stars": 3125,
+    "updated": "2026-04-17T22:16:36Z",
+    "language": "TypeScript",
+    "topics": [
+      "ai-agent",
+      "ai-coding-agent",
+      "anthropic",
+      "bun",
+      "claude",
+      "cli",
+      "coding-assistant",
+      "llm",
+      "mcp",
+      "multi-provider",
+      "openai",
+      "rust",
+      "terminal",
+      "tui",
+      "typescript"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "rohitg00/agentmemory",
+    "url": "https://github.com/rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+    "stars": 1752,
+    "updated": "2026-04-17T21:29:55Z",
+    "language": "TypeScript",
+    "topics": [
+      "agentmemory",
+      "agents",
+      "ai",
+      "claude",
+      "claudecode",
+      "codex",
+      "copilot",
+      "cursor",
+      "genai",
+      "harness",
+      "hermes",
+      "memory",
+      "openclaw"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "first-fluke/oh-my-agent",
+    "url": "https://github.com/first-fluke/oh-my-agent",
+    "description": "Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity, Claude Code, Codex, Cursor, OpenCode, and more.",
+    "stars": 661,
+    "updated": "2026-04-17T19:03:39Z",
+    "language": "TypeScript",
+    "topics": [
+      "agent-harness",
+      "agent-skills",
+      "agentic-coding",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "cursor",
+      "multi-agent",
+      "multi-agent-systems",
+      "oh-my-agent",
+      "opencode",
+      "orchestration",
+      "orchestrator",
+      "serena"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "release",
+    "title": "langchain-ai/langchain - langchain-core==1.3.0",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.3.0",
+    "description": "Changes since langchain-core==1.2.31\n\nrelease(core): release 1.3.0 (#36851)\nrelease(core): 1.3.0a3 (#36829)\nchore(core): keep checkpoint_ns behavior in streaming metadata for backwards compat (#36828)\nfeat(core): Add chat model and LLM invocation params to traceable metadata (#36771)\nfix(core): restore cloud metadata IPs and link-local range in SSRF policy (#36816)\nchore(deps): bump pytest to `9.0.3` (#36801)\nchore(core): harden private SSRF utilities (#36768)\nfix(openai): handle content blocks ",
+    "updated": "2026-04-17T14:51:57Z"
+  },
+  {
+    "source": "GitHub",
+    "type": "release",
+    "title": "langchain-ai/langchain - langchain-anthropic==1.4.1",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D1.4.1",
+    "description": "Changes since langchain-anthropic==1.4.0\n\nfix(anthropic): strip null encrypted_content from compaction blocks (#36850)\nrelease(anthropic): 1.4.1 (#36848)\nfeat(anthropic): support opus 4.7 features (#36847)\nchore: bump langsmith from 0.6.3 to 0.7.31 in /libs/partners/anthropic (#36803)\nchore(deps): bump pytest to `9.0.3` (#36801)\nchore: bump langsmith from 0.6.3 to 0.7.31 in /libs/partners/anthropic (#36789)\nchore(model-profiles): refresh model profile data (#36482)\nfix(core): fixed typos in the ",
+    "updated": "2026-04-17T14:26:31Z"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "Claude Code Meetup Japan #4 技術まとめ ― LT大会スペシャル全セッション振り返り",
+    "url": "https://qiita.com/tai0921/items/ce81fb23f58ac90bc64c",
+    "description": "",
+    "updated": "2026-04-18T06:37:34+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "AIスタッフ8人を雇って個人の知的生産を完全自動化するまで — Claude Codeマルチエージェント組織の全体設計",
+    "url": "https://qiita.com/saitoko/items/5ed95189edab910124ff",
+    "description": "",
+    "updated": "2026-04-18T06:17:50+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "【もうSlackを読むのをやめた】Claude Codeを“AIパートナー化”して朝の情報整理を自動化した話",
+    "url": "https://qiita.com/4q_sano/items/6d2bcfceb4fc2e728204",
+    "description": "",
+    "updated": "2026-04-17T23:19:35+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "Gemma4をローカルで動かしてclaude codeをタダで使い倒したかった",
+    "url": "https://qiita.com/wtcr_31/items/794b5ebfbd2cc0c44cd8",
+    "description": "",
+    "updated": "2026-04-17T23:10:28+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "MCP・バイナリアップロードで心が折れた話",
+    "url": "https://qiita.com/mmiyatake/items/2698c5b9223d2034480e",
+    "description": "",
+    "updated": "2026-04-18T00:46:03+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "Claude Code スキルの呼び出し精度を「skill-creator」で測定・改善してみた",
+    "url": "https://qiita.com/s20014/items/a35d724144a7618a1952",
+    "description": "",
+    "updated": "2026-04-17T20:59:01+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "【2026年版】MCPサーバーのセキュリティリスク ─ 外部ツール連携7つの落とし穴",
+    "url": "https://qiita.com/kawabe0201/items/27ec9f42f3efedd751e9",
+    "description": "",
+    "updated": "2026-04-17T11:12:20+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "arXiv",
+    "type": "paper",
+    "title": "SpaceMind: A Modular and Self-Evolving Embodied Vision-Language Agent Framework for Autonomous On-orbit Servicing",
+    "url": "https://arxiv.org/abs/2604.14399v1",
+    "description": "Autonomous on-orbit servicing demands embodied agents that perceive through visual sensors, reason about 3D spatial situations, and execute multi-phase tasks over extended horizons. We present SpaceMind, a modular and self-evolving vision-language model (VLM) agent framework that decomposes knowledge, tools, and reasoning into three independently extensible dimensions: skill modules with dynamic r",
+    "authors": "Aodi Wu, Haodong Han, Xubo Luo",
+    "updated": "2026-04-15T20:27:57Z"
+  },
+  {
+    "source": "arXiv",
+    "type": "paper",
+    "title": "MCPThreatHive: Automated Threat Intelligence for Model Context Protocol Ecosystems",
+    "url": "https://arxiv.org/abs/2604.13849v1",
+    "description": "The rapid proliferation of Model Context Protocol (MCP)-based agentic systems has introduced a new category of security threats that existing frameworks are inadequately equipped to address. We present MCPThreatHive, an open-source platform that automates the end-to-end lifecycle of MCP threat intelligence: from continuous, multi-source data collection through AI-driven threat extraction and class",
+    "authors": "Yi Ting Shen, Kentaroh Toyoda, Alex Leung",
+    "updated": "2026-04-15T13:19:22Z"
+  },
+  {
+    "source": "Web (GitHub)",
+    "type": "article",
+    "title": "Chachamaru127/claude-code-harness: Claude Code 専用開発ハーネス - 自律的なPlan→Work→Reviewサイクルによる高品質開発の実現 · GitHub",
+    "url": "https://github.com/Chachamaru127/claude-code-harness",
+    "description": "Claude Codeの能力を信頼性の高い開発ループに変える。"
+  }
+]
