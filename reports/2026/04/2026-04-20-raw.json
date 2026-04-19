@@ -1,0 +1,191 @@
+[
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "WakeUp-Jin/Practical-Guide-to-Context-Engineering",
+    "url": "https://github.com/WakeUp-Jin/Practical-Guide-to-Context-Engineering",
+    "description": "大模型应用开发的方向，上下文工程是设计原则，Agent Harness 是构建目标，本项目的目标，是为开发者和研究者提供一份大模型应用开发的骨架思路",
+    "stars": 579,
+    "updated": "2026-04-19T20:44:08Z",
+    "language": null,
+    "topics": [
+      "javascript",
+      "typescript"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "Picrew/awesome-agent-harness",
+    "url": "https://github.com/Picrew/awesome-agent-harness",
+    "description": "An awesome list of Agent Harness engineering resources, including GitHub projects, tools, benchmarks, and practical guides.",
+    "stars": 219,
+    "updated": "2026-04-19T20:10:57Z",
+    "language": "Python",
+    "topics": [
+      "agent-harness",
+      "context-engineering",
+      "harness-engineering"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "affaan-m/everything-claude-code",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "stars": 161121,
+    "updated": "2026-04-19T22:11:51Z",
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "bytedance/deer-flow",
+    "url": "https://github.com/bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "stars": 62720,
+    "updated": "2026-04-19T22:03:13Z",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "deep-research",
+      "harness",
+      "langchain",
+      "langgraph",
+      "langmanus",
+      "llm",
+      "multi-agent",
+      "nodejs",
+      "podcast",
+      "python",
+      "superagent",
+      "typescript"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "rohitg00/agentmemory",
+    "url": "https://github.com/rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+    "stars": 1834,
+    "updated": "2026-04-19T22:03:49Z",
+    "language": "TypeScript",
+    "topics": [
+      "agentmemory",
+      "agents",
+      "ai",
+      "claude",
+      "claudecode",
+      "codex",
+      "copilot",
+      "cursor",
+      "genai",
+      "harness",
+      "hermes",
+      "memory",
+      "openclaw"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "first-fluke/oh-my-agent",
+    "url": "https://github.com/first-fluke/oh-my-agent",
+    "description": "Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity, Claude Code, Codex, Cursor, OpenCode, and more.",
+    "stars": 704,
+    "updated": "2026-04-19T21:16:36Z",
+    "language": "TypeScript",
+    "topics": [
+      "agent-harness",
+      "agent-skills",
+      "agentic-coding",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "cursor",
+      "multi-agent",
+      "multi-agent-systems",
+      "oh-my-agent",
+      "opencode",
+      "orchestration",
+      "orchestrator",
+      "serena"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "codejunkie99/agentic-stack",
+    "url": "https://github.com/codejunkie99/agentic-stack",
+    "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
+    "stars": 573,
+    "updated": "2026-04-19T22:11:14Z",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "Claude CodeとTDDを組み合わせたら、1人開発でもデグレが0になった話",
+    "url": "https://qiita.com/nrEngineer/items/d6098d38a96a9e72f976",
+    "description": "",
+    "updated": "2026-04-20T07:12:35+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "Claude Codeの利用状況をチームで可視化するダッシュボードをOSSで公開しました",
+    "url": "https://qiita.com/tamepicomaru/items/8f9b238ae28e380e6029",
+    "description": "",
+    "updated": "2026-04-20T07:05:49+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "Claude Code のサブエージェント機能で iOS／Flutter 向けコードレビュー職人を作った話",
+    "url": "https://qiita.com/kotaro_ai_lab/items/e572c539bd282869404e",
+    "description": "",
+    "updated": "2026-04-20T07:01:21+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "Web (GitHub)",
+    "type": "article",
+    "title": "GitHub - Chachamaru127/claude-code-harness: Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1sRn6kQTL4xOFuldGy35Gt6WP8xICV9NyksTl425kEGB-44HCa6EqE21t87zu5KlFciVv75_SOiQhxxQbtKKpyBBWIEsnuTozucy07B4EPLWfD_BZ3akvDyKXoNEKaWNetMRBGS4E08529ACSRw==",
+    "description": "Claude Codeの専用開発ハーネス、自律的な計画→作業→レビューサイクルで高品質な開発を実現。"
+  },
+  {
+    "source": "Web (Reddit)",
+    "type": "article",
+    "title": "My full Claude Code setup after months of daily use — context discipline, MCPs, memory, subagents - Reddit",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZs08DR9cQfA0GoiFy2EO0doyIW3pODYz79h6C82E5zdXRMx9y0CjJw5iDmB9fOzpEZ2RwrT48JzI_ijo68gXCNc6uWKDGnCfnXSoMEmz6E5b-KqHlZFizQ5Al__8sv3ZxNzuNsiz48dLHIYpo0LgsbBf1ZXn-0mNCLYHEHpxJ3QjMlm4zCWQK46fWfALjD9qQo5v3Fwlyp4Hcaq47",
+    "description": "数ヶ月の利用を経て、コンテキスト管理、MCP、メモリ、サブエージェントを含むClaude Codeの完全なセットアップを紹介。"
+  },
+  {
+    "source": "Web (YouTube)",
+    "type": "article",
+    "title": "These Claude patterns changed everything - HARNESS - YouTube",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmCjjTb9hLCgiWy7jjas5X2Aoicq9JqvABmQRBs4b64vMzNF_0lGZuhpCgm-eQwTd_8InHl8JZ-lc6tQ0Qn1XjgUzulH6h7TZiB-P-fj-Q0CiBoUJGkTPJvyYnN4s7M-W8U2eL",
+    "description": "Claude APIハーネスデザインの3つのパターン、AnthropicのエンジニアがClaudeの知能向上に合わせてアプリを同期させる方法。"
+  }
+]
