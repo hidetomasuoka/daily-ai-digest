@@ -1,0 +1,273 @@
+[
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "liyupi/ai-guide",
+    "url": "https://github.com/liyupi/ai-guide",
+    "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Lovable / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档，已升级为鱼皮 AI 导航网站",
+    "stars": 12209,
+    "updated": "2026-04-20T19:35:57Z",
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "algorithm",
+      "artificial-intelligence",
+      "chatgpt",
+      "claude",
+      "cursor",
+      "deep-learning",
+      "deepseek",
+      "gemini",
+      "generative-ai",
+      "gpt",
+      "llm",
+      "mcp",
+      "openai",
+      "python",
+      "rag",
+      "vibe-coding",
+      "vibecoding",
+      "vue",
+      "vuepress"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "ModelEngine-Group/nexent",
+    "url": "https://github.com/ModelEngine-Group/nexent",
+    "description": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.",
+    "stars": 4371,
+    "updated": "2026-04-20T16:49:16Z",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-rag",
+      "agentic-workflow",
+      "ai",
+      "harness",
+      "harness-engineering",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "rag"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "bgdnvk/clanker",
+    "url": "https://github.com/bgdnvk/clanker",
+    "description": "autonomous systems engineering cli agent for any cloud environment: AWS, GCP, Cloudflare, etc",
+    "stars": 273,
+    "updated": "2026-04-20T10:18:33Z",
+    "language": "Go",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "ai-ops",
+      "aws",
+      "clanker",
+      "cli",
+      "cloudflare",
+      "cloudflare-workers",
+      "devops",
+      "gcp",
+      "golang",
+      "harness",
+      "infrastructure",
+      "kubernetes",
+      "ml",
+      "observability",
+      "openclaw",
+      "sre",
+      "terraform"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "Picrew/awesome-agent-harness",
+    "url": "https://github.com/Picrew/awesome-agent-harness",
+    "description": "An awesome list of Agent Harness engineering resources, including GitHub projects, tools, benchmarks, and practical guides.",
+    "stars": 222,
+    "updated": "2026-04-20T14:35:18Z",
+    "language": "Python",
+    "topics": [
+      "agent-harness",
+      "context-engineering",
+      "harness-engineering"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "lazyFrogLOL/Harness_Engineering",
+    "url": "https://github.com/lazyFrogLOL/Harness_Engineering",
+    "description": "",
+    "stars": 102,
+    "updated": "2026-04-20T15:41:36Z",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "harness-engineering",
+      "tutorial"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "bytedance/deer-flow",
+    "url": "https://github.com/bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "stars": 62977,
+    "updated": "2026-04-20T22:15:31Z",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "deep-research",
+      "harness",
+      "langchain",
+      "langgraph",
+      "langmanus",
+      "llm",
+      "multi-agent",
+      "nodejs",
+      "podcast",
+      "python",
+      "superagent",
+      "typescript"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "rohitg00/agentmemory",
+    "url": "https://github.com/rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+    "stars": 1872,
+    "updated": "2026-04-20T22:00:53Z",
+    "language": "TypeScript",
+    "topics": [
+      "agentmemory",
+      "agents",
+      "ai",
+      "claude",
+      "claudecode",
+      "codex",
+      "copilot",
+      "cursor",
+      "genai",
+      "harness",
+      "hermes",
+      "memory",
+      "openclaw"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "codejunkie99/agentic-stack",
+    "url": "https://github.com/codejunkie99/agentic-stack",
+    "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
+    "stars": 751,
+    "updated": "2026-04-20T22:02:06Z",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "release",
+    "title": "langchain-ai/langchain - langchain-openai==1.1.15",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.1.15",
+    "description": "Changes since langchain-openai==1.1.14\n\nrelease(openai): 1.1.15 (#36901)\nfix(openai): accommodate dict `response` items in streaming (#36899)\nfix(openai): infer azure chat profiles from model name (#36858)\nchore(model-profiles): refresh model profile data (#36864)",
+    "updated": "2026-04-20T19:57:23Z"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "Claude Codeに開発を丸投げする方法―PCの前から離れられる環境構築の完全ガイド",
+    "url": "https://qiita.com/apoloffice/items/0901269b7ea7e9ef4b66",
+    "description": "",
+    "updated": "2026-04-21T07:19:42+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "Claude Code のライフサイクルフック入門 — セッションの「前後」を自動化する",
+    "url": "https://qiita.com/Tadashi_Kudo/items/20cc213470c6a7576e44",
+    "description": "",
+    "updated": "2026-04-21T07:14:47+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "Hawk-Backtester の使い方 — 設計者が語る Backtest モードと AI Agent モードの両輪",
+    "url": "https://qiita.com/atranta333/items/2106f89d4e0b61b25fe3",
+    "description": "",
+    "updated": "2026-04-21T02:23:49+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "AIがまさかの虚偽報告！？Claude Codeで起きた「家老の不祥事」と「殿の反省」が面白すぎた",
+    "url": "https://qiita.com/tanaka_taro_JP_KYUSYU/items/3068f8224e8a607d1eb0",
+    "description": "",
+    "updated": "2026-04-21T00:26:48+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "MCP vs CLI：Agentの万能インターフェースはどちらか？トップ開発者がCLI回帰する理由",
+    "url": "https://qiita.com/lumichy/items/80ac0b5d76a06fbf9cd3",
+    "description": "",
+    "updated": "2026-04-20T23:31:00+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "Claude Codeをもっと効率的に使いこなすためのノウハウ",
+    "url": "https://qiita.com/hiranuma/items/168b91f397cda6859dc4",
+    "description": "",
+    "updated": "2026-04-20T20:26:32+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "Claude Code の週次タスクを安定させたくて、MCPを捨てて公式CLI（bee / Pup）に移行した話",
+    "url": "https://qiita.com/ntaka329/items/d7debbc9413b500af19e",
+    "description": "",
+    "updated": "2026-04-20T16:03:42+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "【React ✖️ Claude/Cursor】MCPを取り入れたら開発が非常に楽になった話",
+    "url": "https://qiita.com/hello_world_developer/items/b711513143999144c2da",
+    "description": "",
+    "updated": "2026-04-20T10:44:46+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "Web (Google Search)",
+    "type": "article",
+    "title": "medium.com",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_iIQtMRCyR5cmv6xeP9AdW-qNh7gGGMPQhkSyLwC3EYFL1YvA5yalvXoHckMLvpagNzuxOxfd9GB1qfjZrn6u0sru9-JPOLaCo_mHVwbh78g8t4PnH0fjP_WdFRyVqbWV7X3tXeuE2J4ukaf67_sO8hRPAbJl5AtKKv9qDRi0fzBPgdgLrHP0na59wHXeiYrydXQFVcWHxZHWQMmNeFpRcHnz5G4uTU6A0nOjyQ==",
+    "description": ""
+  }
+]
