@@ -1,0 +1,212 @@
+[
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "ai-boost/awesome-harness-engineering",
+    "url": "https://github.com/ai-boost/awesome-harness-engineering",
+    "description": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.",
+    "stars": 697,
+    "updated": "2026-05-02T21:45:31Z",
+    "language": "Python",
+    "topics": [
+      "agent-harness",
+      "agent-memory",
+      "agent-orchestration",
+      "ai-agents",
+      "awesome-list",
+      "context-engineering",
+      "harness-engineering",
+      "mcp"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "bytedance/deer-flow",
+    "url": "https://github.com/bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "stars": 64525,
+    "updated": "2026-05-02T20:57:12Z",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "deep-research",
+      "harness",
+      "langchain",
+      "langgraph",
+      "langmanus",
+      "llm",
+      "multi-agent",
+      "nodejs",
+      "podcast",
+      "python",
+      "superagent",
+      "typescript"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "the-open-agent/openagent",
+    "url": "https://github.com/the-open-agent/openagent",
+    "description": "⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org",
+    "stars": 4525,
+    "updated": "2026-05-02T22:05:47Z",
+    "language": "Go",
+    "topics": [
+      "a2a",
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "agi",
+      "chatbot",
+      "chatgpt",
+      "gpt",
+      "harness",
+      "knowledge-base",
+      "langchain",
+      "llama",
+      "llm",
+      "mcp",
+      "model-context-protocol",
+      "multi-agent",
+      "openagent",
+      "openai",
+      "openclaw",
+      "rag"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "can1357/oh-my-pi",
+    "url": "https://github.com/can1357/oh-my-pi",
+    "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "stars": 3832,
+    "updated": "2026-05-02T22:15:49Z",
+    "language": "TypeScript",
+    "topics": [
+      "ai-agent",
+      "ai-coding-agent",
+      "anthropic",
+      "bun",
+      "claude",
+      "cli",
+      "coding-assistant",
+      "llm",
+      "mcp",
+      "multi-provider",
+      "openai",
+      "rust",
+      "terminal",
+      "tui",
+      "typescript"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "peteromallet/dataclaw",
+    "url": "https://github.com/peteromallet/dataclaw",
+    "description": "Agent harness to publish your history from Claude Code et al. as Huggingface datasets. ",
+    "stars": 2058,
+    "updated": "2026-05-02T07:00:31Z",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "codejunkie99/agentic-stack",
+    "url": "https://github.com/codejunkie99/agentic-stack",
+    "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
+    "stars": 1805,
+    "updated": "2026-05-02T21:50:25Z",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "Claude Code に「API課金ゲート」を設計する：暴走を防ぐヒューマン・イン・ザ・ループ",
+    "url": "https://qiita.com/Tadashi_Kudo/items/fa68b3f540496b0d76fa",
+    "description": "",
+    "updated": "2026-05-03T07:16:05+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "マルチエージェント対応のスキル配布、symlink で外出ししようとしたら踏んだ罠",
+    "url": "https://qiita.com/t-tonton/items/7dbee3180f34a72e12b6",
+    "description": "",
+    "updated": "2026-05-03T02:28:55+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "AIエージェントを会社で使いたい！→「え、セキュリティどうするの？」　企業導入への技術的アプローチ",
+    "url": "https://qiita.com/sharu389no/items/ede7d1c0be4a14024857",
+    "description": "",
+    "updated": "2026-05-03T01:20:31+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "【妄想だけど本気】AIにLibreOfficeを操作させようとして「環境の深淵」を覗いた私が、Rust+Wasm+GoのMCPサーバーに辿り着くまでの話",
+    "url": "https://qiita.com/tonkun4os/items/3b8764b5c3e46d01f333",
+    "description": "",
+    "updated": "2026-05-03T00:16:34+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "ClaudeにAPI料金を自分で払わせる──x402-market MCP server入門",
+    "url": "https://qiita.com/Shota_x402/items/ac8a0b2f718b0e65a4ba",
+    "description": "",
+    "updated": "2026-05-02T19:23:10+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "oracle/skills を MCP と組み合わせると何が変わるか — リアルタイム TOP SQL 解析で Skill の効果を検証する",
+    "url": "https://qiita.com/asahide/items/367a5219258870d880e0",
+    "description": "",
+    "updated": "2026-05-02T09:05:57+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "arXiv",
+    "type": "paper",
+    "title": "Exploring Interaction Paradigms for LLM Agents in Scientific Visualization",
+    "url": "https://arxiv.org/abs/2604.27996v1",
+    "description": "This paper examines how different types of large language model (LLM) agents perform on scientific visualization (SciVis) tasks, where users generate visualization workflows from natural-language instructions. We compare three primary interaction paradigms, including domain-specific agents with structured tool use, computer-use agents, and general-purpose coding agents, by evaluating eight represe",
+    "authors": "Jackson Vonderhorst, Kuangshi Ai, Haichao Miao",
+    "updated": "2026-04-30T15:22:28Z"
+  },
+  {
+    "source": "arXiv",
+    "type": "paper",
+    "title": "Autonomous Traffic Signal Optimization Using Digital Twin and Agentic AI for Real-Time Decision-Making",
+    "url": "https://arxiv.org/abs/2604.27753v1",
+    "description": "This article outlines a new framework of traffic light optimization through a digital twin of the transport infrastructure, managed by agentic AI to ensure real-time autonomous decisions. The framework relies on physical sensors and edge computing to measure real-time traffic information and simulate traffic flow in a constantly updated digital twin. The traffic light is automatically controlled t",
+    "authors": "Salman Jan, Toqeer Ali Syed, Shahid Kamal",
+    "updated": "2026-04-30T11:43:06Z"
+  },
+  {
+    "source": "Web (Newsletter)",
+    "type": "article",
+    "title": "EP213: MCP vs Skills, Clearly Explained - ByteByteGo Newsletter",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRheH7TMHg25UjRYJwQaQYfe2Fx4_k9HRZ_bAdbdveuQHc8C070KZgsa8FsSR-FOGe6JhyIq1nX99EPdLfnb89HOITXiAGf95AeICWIHD5mpqmcdvTbjy6KpMD7agB0bbig29nS7Vx5AS7SKdrQLy8XV40gjQJ1E6ZR8b3As8=",
+    "description": "MCPとAgent Skillsの役割、アーキテクチャ、使い分けを解説。"
+  }
+]
