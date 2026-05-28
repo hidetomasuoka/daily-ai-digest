@@ -1,0 +1,301 @@
+[
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "walkinglabs/learn-harness-engineering",
+    "url": "https://github.com/walkinglabs/learn-harness-engineering",
+    "description": "Harness engineering official style beginner tutorial, from 0 to 1",
+    "stars": 7044,
+    "updated": "2026-05-28T22:22:50Z",
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "ai",
+      "ai-agent",
+      "harness",
+      "harness-engineering",
+      "harness-framework",
+      "llm"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "ModelEngine-Group/nexent",
+    "url": "https://github.com/ModelEngine-Group/nexent",
+    "description": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.",
+    "stars": 4740,
+    "updated": "2026-05-28T20:36:34Z",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-rag",
+      "agentic-workflow",
+      "ai",
+      "harness",
+      "harness-engineering",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "rag"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "ai-boost/awesome-harness-engineering",
+    "url": "https://github.com/ai-boost/awesome-harness-engineering",
+    "description": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.",
+    "stars": 1269,
+    "updated": "2026-05-28T21:59:30Z",
+    "language": "Python",
+    "topics": [
+      "agent-harness",
+      "agent-memory",
+      "agent-orchestration",
+      "ai-agents",
+      "awesome-list",
+      "context-engineering",
+      "harness-engineering",
+      "mcp"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "first-fluke/oh-my-agent",
+    "url": "https://github.com/first-fluke/oh-my-agent",
+    "description": "Portable, vendor-agnostic agent harness for project-specific skills, workflows, and agent teams aligned with your codebase, conventions, and engineering standards.",
+    "stars": 1030,
+    "updated": "2026-05-28T21:09:02Z",
+    "language": "TypeScript",
+    "topics": [
+      "agent-harness",
+      "agent-skills",
+      "agentic-coding",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "cursor",
+      "multi-agent",
+      "multi-agent-systems",
+      "oh-my-agent",
+      "opencode",
+      "orchestration",
+      "orchestrator",
+      "serena"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "Picrew/awesome-agent-harness",
+    "url": "https://github.com/Picrew/awesome-agent-harness",
+    "description": "An awesome list of Agent Harness engineering resources, including GitHub projects, tools, benchmarks, and practical guides.",
+    "stars": 825,
+    "updated": "2026-05-28T22:02:09Z",
+    "language": "Python",
+    "topics": [
+      "agent-harness",
+      "context-engineering",
+      "harness-engineering"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "stars": 197177,
+    "updated": "2026-05-28T22:35:13Z",
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "bytedance/deer-flow",
+    "url": "https://github.com/bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "stars": 69879,
+    "updated": "2026-05-28T22:35:57Z",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "deep-research",
+      "harness",
+      "langchain",
+      "langgraph",
+      "langmanus",
+      "llm",
+      "multi-agent",
+      "nodejs",
+      "podcast",
+      "python",
+      "superagent",
+      "typescript"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "rohitg00/agentmemory",
+    "url": "https://github.com/rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+    "stars": 19282,
+    "updated": "2026-05-28T22:26:52Z",
+    "language": "TypeScript",
+    "topics": [
+      "agentmemory",
+      "agents",
+      "ai",
+      "claude",
+      "claudecode",
+      "codex",
+      "copilot",
+      "cursor",
+      "genai",
+      "harness",
+      "hermes",
+      "memory",
+      "openclaw"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "can1357/oh-my-pi",
+    "url": "https://github.com/can1357/oh-my-pi",
+    "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "stars": 8225,
+    "updated": "2026-05-28T22:32:05Z",
+    "language": "TypeScript",
+    "topics": [
+      "ai-agent",
+      "ai-coding-agent",
+      "anthropic",
+      "bun",
+      "claude",
+      "cli",
+      "coding-assistant",
+      "llm",
+      "mcp",
+      "multi-provider",
+      "openai",
+      "rust",
+      "terminal",
+      "tui",
+      "typescript"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "1jehuang/jcode",
+    "url": "https://github.com/1jehuang/jcode",
+    "description": "Coding Agent Harness",
+    "stars": 6664,
+    "updated": "2026-05-28T22:07:43Z",
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "claude",
+      "cli",
+      "coding-agent",
+      "llm",
+      "mcp",
+      "openai",
+      "rust",
+      "terminal",
+      "tui"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "release",
+    "title": "langchain-ai/langchain - langchain-anthropic==1.4.4",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D1.4.4",
+    "description": "Changes since langchain-anthropic==1.4.3\n\nrelease(anthropic): 1.4.4 (#37757)\nfix(anthropic): normalize cross-provider tool-call IDs (#37756)\ntest(anthropic): retry integration tests on transient failures (#37697)\nchore(infra): bump `langchain-tests` floor to 1.1.9 (#37610)\nchore: bump langsmith from 0.8.3 to 0.8.5 in /libs/partners/anthropic (#37564)\nchore: bump idna from 3.11 to 3.15 in /libs/partners/anthropic (#37565)\nci(infra): harden Dependabot version-bound preservation (#37510)\nchore(infr",
+    "updated": "2026-05-28T20:20:39Z"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "AIコーディングエージェントを見張るOSSを、Claudeから『危険な設定どれ?』と聞けるようにした（MCP対応）",
+    "url": "https://qiita.com/Ju571nK/items/5b6a3f05e7e7de20e3ee",
+    "description": "",
+    "updated": "2026-05-29T07:33:40+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "Claude Code v2.1.153〜v2.1.154 リリース｜毎日Changelog解説",
+    "url": "https://qiita.com/moha0918_/items/d42ad8905e76c9b7a0c1",
+    "description": "",
+    "updated": "2026-05-29T07:33:37+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "Claude Code の statusline は Ruby でも書ける",
+    "url": "https://qiita.com/QUANON/items/3497296a1a353374815f",
+    "description": "",
+    "updated": "2026-05-29T07:22:20+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "自社サービスをAIから「呼ばれる側」にする前に決めておきたいMCPツール設計の観点",
+    "url": "https://qiita.com/lovanaut/items/a1e97e4f172a7e6d68e9",
+    "description": "",
+    "updated": "2026-05-29T05:50:24+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "コードを1行も書かずに確定申告の経理を半自動化した（Claude Code + MCP）",
+    "url": "https://qiita.com/kazun_0909/items/a6c530ec1f71326153cc",
+    "description": "",
+    "updated": "2026-05-29T01:15:40+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "【実戦】TypeScriptで独自の「MCPサーバー」を自作して、ローカルのSQLiteデータをAIに直接操作させてみる",
+    "url": "https://qiita.com/fe1ix/items/5784d4373b37d61652c0",
+    "description": "",
+    "updated": "2026-05-28T21:12:00+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "Web (note)",
+    "type": "article",
+    "title": "【Tech-Verse 2026】セッションサマリ全公開｜LINEヤフー採用 - note",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9_yQm0NCpj1-9LicRbPtb_jQYPORJyP6FR-aDvomXnzGo2m4hWb2xP7_FHOcl9JcBueYiZneABgoDW8QlFN_eGC22bx0UrBklX8xeQBeH1h3f9K0NgU1_ozZ5-j_RZONTlVc1O6sQ9jI=",
+    "description": "LINEヤフーのイベントTech-Verse 2026のセッションサマリ。AIコーディングエージェントを救うハーネスエンジニアリング戦略について言及している記事です。"
+  }
+]
