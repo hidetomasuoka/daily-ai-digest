@@ -1,0 +1,56 @@
+[
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "Claude Code の Bash サンドボックス機構を実装から理解する ― dangerouslyDisableSandbox はいつ使うべきか、3つのハマりどころ【2026】",
+    "url": "https://qiita.com/yureki_lab/items/a86ff0bbfa5b5598bd82",
+    "description": "",
+    "updated": "2026-08-07T08:03:22+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "Claude Code v2.1.223｜Bash permission のバイパスが塞がる｜毎日Changelog解説",
+    "url": "https://qiita.com/moha0918_/items/70ec9480a6b3a235ce01",
+    "description": "",
+    "updated": "2026-08-07T07:04:59+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "Google公式の Cloud Run MCP で、Claude Code にデプロイさせてみた",
+    "url": "https://qiita.com/TaichiYamasaki/items/c75b139044362e18fa68",
+    "description": "",
+    "updated": "2026-08-06T22:00:17+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "MCP史上最大の仕様変更 - 2026-07-28リビジョンで何が変わったか",
+    "url": "https://qiita.com/Thanush/items/841340a66c51cfe2de02",
+    "description": "",
+    "updated": "2026-08-06T20:50:11+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "Tableau Cloud MCPを試してみよう！",
+    "url": "https://qiita.com/unbosoms/items/1f1e314a4fcbbdb9d40f",
+    "description": "",
+    "updated": "2026-08-06T20:50:26+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "Bedrock AgentCoreで業務システム連携AIエージェント構築",
+    "url": "https://qiita.com/Mikeinu/items/24dbd36af25d57aa690e",
+    "description": "",
+    "updated": "2026-08-06T17:25:12+00:00",
+    "lang": "ja"
+  }
+]
