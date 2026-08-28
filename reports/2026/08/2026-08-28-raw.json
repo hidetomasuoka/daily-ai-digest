@@ -1,0 +1,208 @@
+[
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "nexu-io/open-design",
+    "url": "https://github.com/nexu-io/open-design",
+    "description": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.",
+    "stars": 92064,
+    "updated": "2026-08-28T00:53:27Z",
+    "language": null,
+    "topics": [
+      "agent-skills",
+      "ai-design",
+      "byok",
+      "claude-code-for-design",
+      "claude-design",
+      "codex-design",
+      "coding-agents",
+      "cursor-design",
+      "deepseek",
+      "deepseek-harness",
+      "design-systems",
+      "desktop-app",
+      "dsh",
+      "dsh-plugin",
+      "figma-alternative",
+      "hermes-agent",
+      "local-first",
+      "prototyping",
+      "ui-generator",
+      "vibe-coding"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "omnigent-ai/omnigent",
+    "url": "https://github.com/omnigent-ai/omnigent",
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+    "stars": 9373,
+    "updated": "2026-08-28T00:46:42Z",
+    "language": "Python",
+    "topics": [
+      "agent-framework",
+      "agent-governance",
+      "agent-orchestration",
+      "agents",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "developer-tools",
+      "llm",
+      "ml",
+      "multi-agent",
+      "python",
+      "sandbox"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "repository",
+    "title": "Dominic789654/awesome-deepseek-harness",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness",
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
+    "stars": 205,
+    "updated": "2026-08-28T00:19:14Z",
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agent-framework",
+      "ai-agent",
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "coding-agent",
+      "deepseek",
+      "deepseek-ai",
+      "deepseek-harness",
+      "deepseek-harness-plugin",
+      "deepseek-harness-plugins",
+      "dsh",
+      "dsh-patch",
+      "dsh-plugin",
+      "dsh-plugins",
+      "llm",
+      "llm-agent",
+      "mcp",
+      "plugins"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "type": "release",
+    "title": "langchain-ai/langchain - langchain==1.4.0a1",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.4.0a1",
+    "description": "Initial release\n\nfix(langchain): name the content type MCP conversion could not handle\nrelease(langchain): 1.4.0a1\ntest(langchain): skip MCP tests on a pydantic older than `mcp` supports\ntest(langchain): drive MCP tests through FastMCP's own utilities\nfix(langchain/mcp): review edits (#39974)\nMerge remote-tracking branch 'origin/master' into sydney-runkle/langchain/simplify-mcp-adapter\nfix(langchain): import `assert_never` from `typing_extensions`\ntest(langchain): fix type errors in the MCP test",
+    "updated": "2026-08-27T22:21:08Z"
+  },
+  {
+    "source": "GitHub",
+    "type": "release",
+    "title": "langchain-ai/langchain - langchain==1.3.18",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.3.18",
+    "description": "Changes since langchain==1.3.17\n\nrelease(langchain): 1.3.18 (#39966)\nfix(langchain): preserve content-block shape in PIIMiddleware redaction (#39894)\nfix(core): shore up indexing in genai v1 streaming content (#39964)",
+    "updated": "2026-08-27T17:33:28Z"
+  },
+  {
+    "source": "GitHub",
+    "type": "release",
+    "title": "langchain-ai/langchain - langchain-fireworks==1.6.1",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-fireworks%3D%3D1.6.1",
+    "description": "Changes since langchain-fireworks==1.6.0\n\nrelease(fireworks): 1.6.1 (#39975)\nfix(fireworks): drop reasoning history blocks (#39973)\nchore(model-profiles): refresh model profile data (#39844)",
+    "updated": "2026-08-27T21:56:28Z"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "Claude Code でつまずいたときの切り分けメモ（2026-08-28）",
+    "url": "https://qiita.com/homhom44/items/ea8ba5ebf89a77778180",
+    "description": "",
+    "updated": "2026-08-28T08:50:52+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "【Codexで学習ゲーム #6｜九九編】「覚えられる」と「遊びたい」を両立したい。Codexと九九ゲームを直し続けた話",
+    "url": "https://qiita.com/moharamo/items/8317ca7efc457aff0f6d",
+    "description": "",
+    "updated": "2026-08-28T08:31:09+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (Claude Code))",
+    "type": "article",
+    "title": "Claude Code開発者が押さえておきたいAnthropicニュース（2026-08-28）",
+    "url": "https://qiita.com/homhom44/items/3360c21251d24aecfcfe",
+    "description": "",
+    "updated": "2026-08-28T08:05:01+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "AIエージェントが物理デバイスを操作する時代へ Anthropic「Model Hardware Standard」始動",
+    "url": "https://qiita.com/picnic/items/eda180d181ee6866ccf4",
+    "description": "",
+    "updated": "2026-08-28T06:40:04+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "【備忘録】Salesforce周りのMCP / Agent Skills / Headless開発を整理する - 2026年8月時点で何がどの用途なのか",
+    "url": "https://qiita.com/Tadataka_Takahashi/items/d719b33ae5eac78983dd",
+    "description": "",
+    "updated": "2026-08-28T00:54:05+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Qiita (MCP))",
+    "type": "article",
+    "title": "ナレッジ検索をClaude Codeからも引けるようにした：社内ドキュメントをAIに答えさせる3つの道を比べた",
+    "url": "https://qiita.com/spina1/items/ac3ca84b89759858846c",
+    "description": "",
+    "updated": "2026-08-27T19:39:22+00:00",
+    "lang": "ja"
+  },
+  {
+    "source": "RSS (Martin Fowler)",
+    "type": "article",
+    "title": "Making Your Data Ready for Agentic AI",
+    "url": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
+    "description": "",
+    "updated": "2026-08-27T09:11:00+00:00",
+    "lang": "en"
+  },
+  {
+    "source": "arXiv",
+    "type": "paper",
+    "title": "ProgRouter: Online Progress-Guided Orchestration for Multi-Agent LLM Workflows under Quality-Cost Tradeoffs",
+    "url": "https://arxiv.org/abs/2608.25992v1",
+    "description": "Multi-agent large language model (LLM) workflows have emerged as a powerful paradigm for solving complex, open-ended tasks through collaborative reasoning among specialized LLM agents, but they incur substantial operating costs due to repeated LLM invocations and long-horizon context accumulation. Existing cascade routing methods make one-shot, query-level decisions and cannot adapt to the dynamic",
+    "authors": "Songyuan Li, Ahmed M. Abdelmoniem, Shiqiang Wang",
+    "updated": "2026-08-26T16:42:02Z"
+  },
+  {
+    "source": "arXiv",
+    "type": "paper",
+    "title": "ToolMinimize: Auditing and Rewriting LLM Agent Tool Calls to Minimize Privacy Exposure",
+    "url": "https://arxiv.org/abs/2608.24957v1",
+    "description": "LLM agents routinely include privacy-sensitive data (PSD) in tool call arguments beyond what the invoked tools require, crossing trust boundaries to third-party services on every invocation. A controlled measurement on three production LLMs (GPT-4o, Claude 3.5 Sonnet, Llama-3.3-70B) shows that 81--88\\% of tool calls include unnecessary PSD under default prompts; explicit privacy instructions still",
+    "authors": "Wenbiao Li, Yuqiao Xu",
+    "updated": "2026-08-25T03:48:16Z"
+  },
+  {
+    "source": "arXiv",
+    "type": "paper",
+    "title": "Hybrid Semantic Tool Discovery for Enterprise MCP Gateway: Architecture and Implementation",
+    "url": "https://arxiv.org/abs/2608.23992v1",
+    "description": "Large language model (LLM) agents invoke external tools to retrieve and reason over information beyond pretrained knowledge. The Model Context Protocol (MCP) standardizes how such tools are surfaced, and a proxy MCP server aggregates many backend servers behind a single endpoint providing a secure, governable chokepoint for authentication, policy enforcement, and observability. This architecture c",
+    "authors": "Olympia Saha, Amy Wang, Srinivasan Manoharan",
+    "updated": "2026-08-25T02:33:44Z"
+  }
+]
